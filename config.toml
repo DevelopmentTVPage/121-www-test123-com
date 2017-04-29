@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "www.test123.com"
+baseURL = "https:\/\/www.test123.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758403"
+subfolder = ""
